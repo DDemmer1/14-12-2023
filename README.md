@@ -16,7 +16,7 @@ Aufgabe 2:
 - weißt den Feldern des Objekts Werte zu
   
 Aufgabe 2:
- - erstellt eine Klasse ```StringUtilityl```
+ - erstellt eine Klasse ```StringUtility```
  - fügt die Methode aus Aufgabe 1 in die Klasse ein
  - erstellt in der Klasse ```Application``` ein ein Objekt der Klasse
  - führt die Methode aus
